@@ -1,0 +1,7 @@
+{
+  "name": "Day Planner & Tracker",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
